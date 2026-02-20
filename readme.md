@@ -1,6 +1,9 @@
 Project Name
 ____________
 
+[![](https://img.shields.io/badge/github-sponsor-pink?logo=github)](https://github.com/sponsors/Andersama)
+[![](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT "License: MIT")
+
 This is a cmake project template for imgui applications
 
 For quick integration with MSVC, install vcpkg then run:
